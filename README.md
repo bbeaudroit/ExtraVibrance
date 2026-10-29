@@ -2,6 +2,8 @@
 
 **Make your games more vibrant. Automatically.**
 
+[![Available on SFA](https://sforall.vercel.app/badge/extravibrance)](https://sforall.vercel.app/p/extravibrance)
+
 ExtraVibrance enhances your games' color saturation in real time, without modifying game files, accessing game memory, or affecting performance. 
 
 Fully Made by claude code!
